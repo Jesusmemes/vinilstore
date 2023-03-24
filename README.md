@@ -14,4 +14,4 @@ Frontend:
 1- cd frontend
 2- npm start per far partire l'applicazione
 
-Se il progetto non dovesse funzionare controllate sempre i vari codici d'errore.
+Se il progetto non dovesse funzionare controllate sempre i vari codici d'errore, come database ho utilizzato un NoSQL (es. MongoDB)
