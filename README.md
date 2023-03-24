@@ -1,4 +1,6 @@
-Progetto di sito e-commerce per il corso di laurea di ingegneria informatica, insegnamento di Tecnologie e internet.
+Progetto di sito e-commerce per il corso di laurea di ingegneria informatica.
+Insegnamento di Tecnologie e internet.
+Basato su React e Node.js 
 
 Fadi Marco Alrazem (matricola n° 298913)
 
