@@ -1,4 +1,4 @@
-Progetto di sito e-commerce per il corso di laurea di ingegneria informatica.
+Progetto di sito e-commerce per il corso di laurea di ingegneria informatica presso l'Università di Parma.
 Insegnamento di Tecnologie e internet.
 Basato su React e Node.js 
 
