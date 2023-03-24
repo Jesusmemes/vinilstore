@@ -1,7 +1,11 @@
 body {
   font-family: 'Helvetica', Sans-Serif;
+  text-decoration: none;
 }
-
+body a {
+  text-decoration: none;
+  color: black;
+}
 .site-container {
   min-height: 100vh;
 }
@@ -13,8 +17,8 @@ main {
   background-color: orange;
   color: black;
 }
-.footer a {
-  border: 1px black solid;
+.footer {
+  background-color: 1px black solid;
   margin: 1rem;
 }
 .products {
@@ -65,8 +69,12 @@ main {
   height: 100%;
   position: absolute;
   left: -300px;
-  background-color: black;
+  background-color: orange;
   transition: 0.5s;
+}
+.side-navbar a {
+  text-decoration: none;
+  color: black;
 }
 
 .site-container {
